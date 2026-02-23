@@ -7,9 +7,7 @@ I'm Arya Wira, a Software Engineering student from Indonesia 🇮🇩
 - Exploring Artificial Intelligence and Machine Learning.
 - Working on Python-based backend projects.
 
-<p align="right">
-  <img height="150" src="https://media1.tenor.com/m/_HwQHDixHnMAAAAC/kitten-cat.gif" />
-</p>
+<img align="right" height="150" src="https://media1.tenor.com/m/_HwQHDixHnMAAAAC/kitten-cat.gif"  />
 
 ###
 
