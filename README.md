@@ -1,6 +1,6 @@
 <h2 align="left">Hi there 👋</h2>
 
-I'm Arya, a Software Engineering student from Indonesia 🇮🇩
+I'm Arya, a Software Engineering student from Indonesia
 
 🎓 Currently:
 - Building a strong foundation in software development, algorithms, and data structures.
