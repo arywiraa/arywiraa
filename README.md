@@ -39,6 +39,6 @@ I'm Arya, a Software Engineering student from Indonesia
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://portofolio-arya-nine.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logoColor=white" alt="Portfolio Button" height="35"/>
-</a>
+    <img src="https://img.shields.io/badge/Portfolio-FF6B00?style=for-the-badge&logo=linktree&logoColor=white" alt="Portfolio" height="50"/>
+  </a>
 </div>
